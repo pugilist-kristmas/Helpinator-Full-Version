@@ -232,3 +232,6 @@ This repository serves as the official landing page for Helpinator. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Helpinator today!**
+
+---
+**Last updated:** 2026-09-11 05:36:13 UTC
